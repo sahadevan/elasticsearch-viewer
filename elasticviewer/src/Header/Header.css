@@ -1,0 +1,33 @@
+.headermargins5px
+{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.headermargins2px
+{
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.headermargins1px
+{
+    margin-top: 5px;
+    margin-left: 1px;
+}
+
+.headermargins3px
+{
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.elasticsearchhealth{
+    margin-top: 5px;
+    margin-left: 1px;
+    margin-right: 10px;
+}
+
+.elasticsearchdetails{
+    flex-direction: row-reverse !important;
+}
